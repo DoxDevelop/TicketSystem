@@ -1,0 +1,14 @@
+allowotherstoclose: false
+adminmessages: true
+closenotice: true
+bungeecord: false
+players: false
+maxtickets: 10
+updateTime: 600
+
+# MYSQL
+hostname:
+port: 
+database: 
+username: 
+password: 

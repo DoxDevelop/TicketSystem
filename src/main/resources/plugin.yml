@@ -1,0 +1,9 @@
+name: TicketSystem
+main: org.doxdevelop.ticketsystem.TicketSystem
+version: 1.0
+
+commands:
+  report:
+    description:
+  ticket:
+    description:
